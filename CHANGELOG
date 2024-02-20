@@ -1,0 +1,22 @@
+1.0.3 - add text customization — title, placeholder, error
+1.0.2 - add customization — theme, color
+1.0.1 - add documentation & getting started
+1.0.0 - add bank sheet
+0.9.10 - version change for semver
+0.9.9.1 country updates
+  - update country list
+  - use 3 character country codes
+  - change "Zip Code" to "Postal Code"
+0.9.9 - API changes
+  - add showCancelButton
+  - clean up demo
+  - add docs
+0.9.8 - Styling and presentation changes
+  -add different payment sheet styles:
+    - minimal
+    - partial
+    - basic
+    - complete
+  - allow right bar button to be optional to support navigation push presentation
+  - update demo app to expose new functionality
+0.9.4.2 — add `environment` to `FinixCredentials` to select between Live and Sandbox
